@@ -1,0 +1,726 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1/" version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1/ http://www.topografix.com/GPX/1/1//gpx.xsd" creator="FlyChart, Version 4.55, Sep 15th 2013 - http://www.flytec.ch">
+  <wpt lat="47.01415" lon="8.30796666666667">  <ele>450</ele>
+    <name>FLY045</name>
+    <desc>Flytec</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6973" lon="7.85171666666667">  <ele>1322</ele>
+    <name>B01132</name>
+    <desc>B01132 B01132 Har</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7009" lon="7.77335">  <ele>1590</ele>
+    <name>B02159</name>
+    <desc>B02159 B02159 Nie</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6961666666667" lon="7.79043333333333">  <ele>1160</ele>
+    <name>B03116</name>
+    <desc>B03116 B03116 Bea</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7194833333333" lon="7.75501666666667">  <ele>1700</ele>
+    <name>B04170</name>
+    <desc>B04170 B04170 Sig</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7163666666667" lon="7.87965">  <ele>1730</ele>
+    <name>B05173</name>
+    <desc>B05173 B05173 Har</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7429833333333" lon="7.9292">  <ele>2130</ele>
+    <name>B06213</name>
+    <desc>B06213 B06213 Aug</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7353666666667" lon="7.8242">  <ele>1800</ele>
+    <name>B07180</name>
+    <desc>B07180 B07180 Gem</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.75825" lon="7.81963333333333">  <ele>1900</ele>
+    <name>B08190</name>
+    <desc>B08190 B08190 Sie</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7864833333333" lon="7.89416666666667">  <ele>2000</ele>
+    <name>B09200</name>
+    <desc>B09200 B09200 Hoh</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8355166666667" lon="7.95881666666667">  <ele>2100</ele>
+    <name>B10210</name>
+    <desc>B10210 B10210 Hen</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7747166666667" lon="7.9846">  <ele>2220</ele>
+    <name>B11222</name>
+    <desc>B11222 B11222 Tan</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6400833333333" lon="7.81278333333333">  <ele>1890</ele>
+    <name>B12189</name>
+    <desc>B12189 B12189 Dae</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6224166666667" lon="7.79386666666667">  <ele>2240</ele>
+    <name>B13224</name>
+    <desc>B13224 B13224 Mor</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6970166666667" lon="7.974">  <ele>1330</ele>
+    <name>B14133</name>
+    <desc>B14133 B14133 Wer</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.65875" lon="8.05421666666667">  <ele>2150</ele>
+    <name>B15215</name>
+    <desc>B15215 B15215 Fir</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5856666666667" lon="7.94686666666667">  <ele>2300</ele>
+    <name>B16230</name>
+    <desc>B16230 B16230 Lau</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6649333333333" lon="8.09588333333333">  <ele>2010</ele>
+    <name>B21201</name>
+    <desc>B21201 B21201 Gra</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.655" lon="8.1023">  <ele>1960</ele>
+    <name>B22196</name>
+    <desc>B22196 B22196 Gro</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6247333333333" lon="8.04578333333333">  <ele>1060</ele>
+    <name>B23106</name>
+    <desc>B23106 B23106 Gri</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6174833333333" lon="8.05615">  <ele>1390</ele>
+    <name>B24139</name>
+    <desc>B24139 B24139 Pfi</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.65385" lon="7.98078333333333">  <ele>2210</ele>
+    <name>B25221</name>
+    <desc>B25221 B25221 Bur</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.62445" lon="8.0967">  <ele>2320</ele>
+    <name>B26232</name>
+    <desc>B26232 B26232 Gle</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5997666666667" lon="8.00243333333333">  <ele>1610</ele>
+    <name>B27161</name>
+    <desc>B27161 B27161 Alp</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6512833333333" lon="7.9494">  <ele>1650</ele>
+    <name>B28165</name>
+    <desc>B28165 B28165 Hin</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5900166666667" lon="7.97231666666667">  <ele>1850</ele>
+    <name>B29185</name>
+    <desc>B29185 B29185 Arv</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.61265" lon="7.94121666666667">  <ele>2230</ele>
+    <name>B30223</name>
+    <desc>B30223 B30223 Man</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6514666666667" lon="7.90891666666667">  <ele>1980</ele>
+    <name>B31198</name>
+    <desc>B31198 B31198 Sch</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5757833333333" lon="7.93825">  <ele>1870</ele>
+    <name>B32187</name>
+    <desc>B32187 B32187 Wen</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5579833333333" lon="7.89115">  <ele>1620</ele>
+    <name>B33162</name>
+    <desc>B33162 B33162 Mur</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5572833333333" lon="7.83506666666667">  <ele>2970</ele>
+    <name>B34297</name>
+    <desc>B34297 B34297 Sch</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5446833333333" lon="7.83888333333333">  <ele>2040</ele>
+    <name>B35204</name>
+    <desc>B35204 B35204 Pog</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6596166666667" lon="7.89461666666667">  <ele>1540</ele>
+    <name>B41154</name>
+    <desc>B41154 B41154 Bre</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6364666666667" lon="7.83173333333333">  <ele>1100</ele>
+    <name>B42110</name>
+    <desc>B42110 B42110 Sax</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7505166666667" lon="7.88621666666667">  <ele>1730</ele>
+    <name>B44173</name>
+    <desc>B44173 B44173 Bol</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7104166666667" lon="7.77341666666667">  <ele>1950</ele>
+    <name>B45195</name>
+    <desc>B45195 B45195 Nie</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6321833333333" lon="7.7638">  <ele>1600</ele>
+    <name>B46160</name>
+    <desc>B46160 B46160 Gre</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6575166666667" lon="7.70646666666667">  <ele>880</ele>
+    <name>B47088</name>
+    <desc>B47088 B47088 Aes</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.74835" lon="7.71608333333333">  <ele>1390</ele>
+    <name>B48139</name>
+    <desc>B48139 B48139 Blu</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7167833333333" lon="7.7486">  <ele>1660</ele>
+    <name>B49166</name>
+    <desc>B49166 B49166 Spi</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8140833333333" lon="7.95751666666667">  <ele>1770</ele>
+    <name>B51177</name>
+    <desc>B51177 B51177 Chl</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8468166666667" lon="7.86998333333333">  <ele>1420</ele>
+    <name>B52142</name>
+    <desc>B52142 B52142 Wac</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8222666666667" lon="7.64045">  <ele>1080</ele>
+    <name>B53108</name>
+    <desc>B53108 B53108 Fal</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7728166666667" lon="8.10636666666667">  <ele>2000</ele>
+    <name>B54200</name>
+    <desc>B54200 B54200 Wyl</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7568166666667" lon="8.21873333333333">  <ele>1830</ele>
+    <name>B55183</name>
+    <desc>B55183 B55183 Kas</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7501333333333" lon="8.38748333333333">  <ele>1610</ele>
+    <name>B56161</name>
+    <desc>B56161 B56161 Gad</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6463833333333" lon="7.6522">  <ele>2360</ele>
+    <name>B61236</name>
+    <desc>B61236 B61236 Nie</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5019166666667" lon="7.69658333333333">  <ele>1680</ele>
+    <name>B62168</name>
+    <desc>B62168 B62168 Oes</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.59115" lon="7.60435">  <ele>1950</ele>
+    <name>B63195</name>
+    <desc>B63195 B63195 Mag</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5348666666667" lon="7.64003333333333">  <ele>2340</ele>
+    <name>B64234</name>
+    <desc>B64234 B64234 Eli</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.4921166666667" lon="7.64965">  <ele>1730</ele>
+    <name>B65173</name>
+    <desc>B65173 B65173 Alm</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.4967666666667" lon="7.54285">  <ele>2030</ele>
+    <name>B66203</name>
+    <desc>B66203 B66203 Ade</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.4527166666667" lon="7.49591666666667">  <ele>1960</ele>
+    <name>B67196</name>
+    <desc>B67196 B67196 Hah</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6514666666667" lon="7.56013333333333">  <ele>1020</ele>
+    <name>B71102</name>
+    <desc>B71102 B71102 Die</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6047666666667" lon="7.42688333333333">  <ele>1850</ele>
+    <name>B72185</name>
+    <desc>B72185 B72185 Nid</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.513" lon="7.4269">  <ele>1650</ele>
+    <name>B73165</name>
+    <desc>B73165 B73165 Dac</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.4266166666667" lon="7.3749">  <ele>2040</ele>
+    <name>B74204</name>
+    <desc>B74204 B74204 Tru</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.48955" lon="7.31491666666667">  <ele>1950</ele>
+    <name>B75195</name>
+    <desc>B75195 B75195 Gst</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.4733333333333" lon="7.2902">  <ele>1100</ele>
+    <name>B76110</name>
+    <desc>B76110 B76110 Gst</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.36705" lon="7.21123333333333">  <ele>1920</ele>
+    <name>B77192</name>
+    <desc>B77192 B77192 Pil</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6596166666667" lon="7.89461666666667">  <ele>900</ele>
+    <name>B91090</name>
+    <desc>B91090 B91090 Reg</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7356666666667" lon="7.98815">  <ele>0</ele>
+    <name>B92000</name>
+    <desc>B92000 B92000 Bri</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7252166666667" lon="7.90956666666667">  <ele>0</ele>
+    <name>B93000</name>
+    <desc>B93000 B93000 Aug</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6135" lon="7.67753333333333">  <ele>0</ele>
+    <name>B94000</name>
+    <desc>B94000 B94000 Rei</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.4291833333333" lon="7.25">  <ele>0</ele>
+    <name>B95000</name>
+    <desc>B95000 B95000 Pri</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6570666666667" lon="8.0553">  <ele>2120</ele>
+    <name>T01212</name>
+    <desc>T01212 T01212 Fir</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.65345" lon="8.05655">  <ele>1860</ele>
+    <name>T02186</name>
+    <desc>T02186 T02186 Egg</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7006833333333" lon="7.81991666666667">  <ele>1290</ele>
+    <name>T03129</name>
+    <desc>T03129 T03129 Ber</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7026333333333" lon="7.82258333333333">  <ele>1330</ele>
+    <name>T04133</name>
+    <desc>T04133 T04133 Ami</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7103333333333" lon="8.03718333333333">  <ele>1820</ele>
+    <name>T05182</name>
+    <desc>T05182 T05182 Axa</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6607333333333" lon="7.89445">  <ele>1500</ele>
+    <name>T06150</name>
+    <desc>T06150 T06150 Bre</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6203166666667" lon="8.02876666666667">  <ele>950</ele>
+    <name>L01095</name>
+    <desc>L01095 L01095 Gri</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6853833333333" lon="7.8589">  <ele>570</ele>
+    <name>L02057</name>
+    <desc>L02057 L02057 Int</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6845833333333" lon="7.67391666666667">  <ele>640</ele>
+    <name>L03064</name>
+    <desc>L03064 L03064 Spi</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6809833333333" lon="7.82375">  <ele>565</ele>
+    <name>L04056</name>
+    <desc>L04057 L04057 Leh</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.63695" lon="7.6489">  <ele>1810</ele>
+    <name>F02181</name>
+    <desc>F02181 F02181 Obe</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6229833333333" lon="7.6632">  <ele>1510</ele>
+    <name>F03151</name>
+    <desc>F03151 F03151 Hub</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6073166666667" lon="7.61928333333333">  <ele>1920</ele>
+    <name>F04192</name>
+    <desc>F04192 F04192 Gun</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.59955" lon="7.63883333333333">  <ele>1440</ele>
+    <name>F05144</name>
+    <desc>F05144 F05144 Ueb</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5853" lon="7.61176666666667">  <ele>1800</ele>
+    <name>F06180</name>
+    <desc>F06180 F06180 M-g</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5412666666667" lon="7.57748333333333">  <ele>1650</ele>
+    <name>F07165</name>
+    <desc>F07165 F07165 Alp</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.4976666666667" lon="7.54025">  <ele>2020</ele>
+    <name>F08202</name>
+    <desc>F08202 F08202 Tsc</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.4716" lon="7.51806666666667">  <ele>1980</ele>
+    <name>F09198</name>
+    <desc>F09198 F09198 Sil</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.4689166666667" lon="7.4751">  <ele>1820</ele>
+    <name>F10182</name>
+    <desc>F10182 F10182 Und</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5223" lon="7.62278333333333">  <ele>1800</ele>
+    <name>F12180</name>
+    <desc>F12180 F12180 Els</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5630166666667" lon="7.6434">  <ele>1280</ele>
+    <name>F13128</name>
+    <desc>F13128 F13128 Tru</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5019166666667" lon="7.69683333333333">  <ele>1680</ele>
+    <name>F20168</name>
+    <desc>F20168 F20168 Oes</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5388166666667" lon="7.69218333333333">  <ele>1950</ele>
+    <name>F21195</name>
+    <desc>F21195 F21195 Gie</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5533166666667" lon="7.68325">  <ele>1640</ele>
+    <name>F22164</name>
+    <desc>F22164 F22164 Gri</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.58755" lon="7.60891666666667">  <ele>1850</ele>
+    <name>F80185</name>
+    <desc>F80185 F80185 M-g</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5856666666667" lon="7.65393333333333">  <ele>780</ele>
+    <name>F90078</name>
+    <desc>F90078 F90078 Flu</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.45805" lon="7.57141666666667">  <ele>2230</ele>
+    <name>F98223</name>
+    <desc>F98223 F98223 Spe</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="46.4925666666667" lon="7.5089">  <ele>2000</ele>
+    <name>F99200</name>
+    <desc>F99200 F99200 Spe</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <wpt lat="3.11916666666667" lon="0.0358333333333333">  <ele>0</ele>
+    <name>COM000</name>
+    <desc>COMPID 29379</desc>
+    <extensions>
+      <radius>400</radius>
+    </extensions>
+  </wpt>
+  <rte>  <name>COMPETITION-ROUTE</name>
+    <rtept lat="46.6570666666667" lon="8.0553">  <ele>2120</ele>
+      <name>T01212</name>
+      <desc>T01212 T01212 Fir</desc>
+      <extensions>
+        <radius>400</radius>
+      </extensions>
+    </rtept>
+    <rtept lat="46.65385" lon="7.98078333333333">  <ele>2210</ele>
+      <name>B25221</name>
+      <desc>B25221 B25221 Bur</desc>
+      <extensions>
+        <radius>400</radius>
+      </extensions>
+    </rtept>
+    <rtept lat="46.65385" lon="7.98078333333333">  <ele>2210</ele>
+      <name>B25221</name>
+      <desc>B25221 B25221 Bur</desc>
+      <extensions>
+        <radius>400</radius>
+      </extensions>
+    </rtept>
+    <rtept lat="46.6649333333333" lon="8.09588333333333">  <ele>2010</ele>
+      <name>B21201</name>
+      <desc>B21201 B21201 Gra</desc>
+      <extensions>
+        <radius>400</radius>
+      </extensions>
+    </rtept>
+    <rtept lat="46.65385" lon="7.98078333333333">  <ele>2210</ele>
+      <name>B25221</name>
+      <desc>B25221 B25221 Bur</desc>
+      <extensions>
+        <radius>400</radius>
+      </extensions>
+    </rtept>
+    <rtept lat="46.655" lon="8.1023">  <ele>1960</ele>
+      <name>B22196</name>
+      <desc>B22196 B22196 Gro</desc>
+      <extensions>
+        <radius>400</radius>
+      </extensions>
+    </rtept>
+    <rtept lat="46.5900166666667" lon="7.97231666666667">  <ele>1850</ele>
+      <name>B29185</name>
+      <desc>B29185 B29185 Arv</desc>
+      <extensions>
+        <radius>400</radius>
+      </extensions>
+    </rtept>
+    <rtept lat="46.6174833333333" lon="8.05615">  <ele>1390</ele>
+      <name>B24139</name>
+      <desc>B24139 B24139 Pfi</desc>
+      <extensions>
+        <radius>400</radius>
+      </extensions>
+    </rtept>
+    <rtept lat="46.6203166666667" lon="8.02876666666667">  <ele>950</ele>
+      <name>L01095</name>
+      <desc>L01095 L01095 Gri</desc>
+      <extensions>
+        <radius>400</radius>
+      </extensions>
+    </rtept>
+  </rte>
+</gpx>
