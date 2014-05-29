@@ -26,34 +26,52 @@ from math import pow, floor
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-x', '--x_coordinate', required=True, help='X Coordinate')
-    parser.add_argument('-y', '--y_coordinate', required=True, help='Y Coordinate')
+    parser.add_argument('-x', '--x_coordinate', help='X Coordinate')
+    parser.add_argument('-y', '--y_coordinate', help='Y Coordinate')
+    parser.add_argument('-e', '--east', help='LV3 east coordinate')
+    parser.add_argument('-n', '--north', help='LV3 north coordinate')
     parser.add_argument('-hi', '--height', required=True, help='Height')
-    parser.add_argument('-conversion', required=True, help='conversion type [lv3|wgs84]')
     arguments = parser.parse_args()
 
     result = None
 
-    if arguments.conversion == 'lv3':
+    if arguments.x_coordinate:
         result = wgs84_to_lv3(arguments.y_coordinate, arguments.x_coordinate, arguments.height)
-    if arguments.conversion == 'wgs84':
-        result = lv3_to_wgs84(arguments.y_coordinate, arguments.x_coordinate, arguments.height)
-
-    print 'IN x: %s Y: %s h: %s' % (arguments.x_coordinate, arguments.y_coordinate, arguments.height)
-    print 'OUT x: %s y: %s h: %s' % (result[0], result[1], result[2])
+        print 'WGS84 -> LV3'
+        print 'IN latitude: %s longitude: %s height: %s' % (arguments.x_coordinate, arguments.y_coordinate, arguments.height)
+        print 'OUT east: %s north: %s height: %s' % (result[1], result[0], result[2])
+    if arguments.east:
+       result = lv3_to_wgs84(arguments.east, arguments.north, arguments.height)
+       print 'LV3 -> WGS84'
+       print 'IN east: %s north: %s height: %s' % (arguments.east, arguments.north, arguments.height)
+       print 'OUT latitude: %s longitude: %s height: %s' % (result[0], result[1], result[2])
 
 def wgs84_to_lv3(y, x, h):
+    y_sex = decimal_to_sexagesimal(y)
+    x_sex = decimal_to_sexagesimal(x)
+    y_sec = sexagesimal_to_seconds(y_sex)
+    x_sec = sexagesimal_to_seconds(x_sex)
 
-    return None
+    lat_aux = (x_sec - 169028.66) / 10000.0
+    lng_aux = (y_sec - 26782.5) / 10000.0
+
+    lat = ((200147.07 + (308807.95 * lat_aux) + (3745.25 * pow(lng_aux, 2)) + (76.63 * pow(lat_aux, 2))) - (194.56 * pow(lng_aux, 2) * lat_aux)) + (119.79 * pow(lat_aux, 3))
+    lng = (600072.37 + (211455.93 * lng_aux)) - (10938.51 * lng_aux * lat_aux) - (0.36 * lng_aux * pow(lat_aux, 2)) - (44.54 * pow(lng_aux, 3))
+
+    height = (float(h) - 49.55) + (2.73 * lng_aux) + (6.94 * lat_aux)
+    return [lat,lng,height]
 
 def decimal_to_sexagesimal(angle):
-    degrees = floor(float(angle)
-    minutes = floor((degrees - float(angle)) * 60.0)
+    degrees = floor(float(angle))
+    minutes = floor((float(angle) - degrees) * 60.0)
     seconds = (((float(angle) - degrees) * 60.0) - minutes) * 60.0
     return degrees + (minutes / 100.0) + (seconds / 10000)
 
 def sexagesimal_to_seconds(angle):
-    
+    degrees = floor(float(angle))
+    minutes = floor((float(angle) - degrees) * 100.0)
+    seconds = (((float(angle) - degrees) * 100.0) - minutes) * 100.0
+    return seconds + (minutes * 60) + (degrees * 3600)
 
 def lv3_to_wgs84(y, x, h):
 
